@@ -1,0 +1,1 @@
+Spring-MVC sample for my Blog
